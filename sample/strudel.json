@@ -25,5 +25,5 @@
         "/sample/util/armor.wav",
         "/sample/util/click.wav"
     ],
-    "_base": "https://raw.githubusercontent.com/gawirable/DEMIGOD/refs/heads/main/sample/"
+    "_base": "https://raw.githubusercontent.com/gawirable/DEMIGOD/main/sample/"
 }
