@@ -25,5 +25,5 @@
         "/sample/util/armor.wav",
         "/sample/util/click.wav"
     ],
-    "_base": "http://localhost:5432"
+    "_base": "https://raw.githubusercontent.com/gawirable/DEMIGOD/refs/heads/main/sample/"
 }
