@@ -1,28 +1,29 @@
 {
-    "sample": [
-        "/.gitignore"
-    ],
     "Kicks": [
-        "/Kicks/Cymatics Jawz - Kick 1.wav",
-        "/Kicks/Cymatics Jawz - Kick 10.wav",
-        "/Kicks/Cymatics Jawz - Kick 11.wav",
-        "/Kicks/Cymatics Jawz - Kick 12.wav",
-        "/Kicks/Cymatics Jawz - Kick 13.wav",
-        "/Kicks/Cymatics Jawz - Kick 14.wav",
-        "/Kicks/Cymatics Jawz - Kick 15.wav",
-        "/Kicks/Cymatics Jawz - Kick 16.wav",
-        "/Kicks/Cymatics Jawz - Kick 17.wav",
-        "/Kicks/Cymatics Jawz - Kick 18.wav",
-        "/Kicks/Cymatics Jawz - Kick 19.wav",
-        "/Kicks/Cymatics Jawz - Kick 2.wav",
-        "/Kicks/Cymatics Jawz - Kick 20.wav",
-        "/Kicks/Cymatics Jawz - Kick 3.wav",
-        "/Kicks/Cymatics Jawz - Kick 4.wav",
-        "/Kicks/Cymatics Jawz - Kick 5.wav",
-        "/Kicks/Cymatics Jawz - Kick 6.wav",
-        "/Kicks/Cymatics Jawz - Kick 7.wav",
-        "/Kicks/Cymatics Jawz - Kick 8.wav",
-        "/Kicks/Cymatics Jawz - Kick 9.wav"
+        "/sample/Kicks/Cymatics Jawz - Kick 1.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 10.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 11.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 12.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 13.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 14.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 15.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 16.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 17.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 18.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 19.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 2.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 20.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 3.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 4.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 5.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 6.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 7.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 8.wav",
+        "/sample/Kicks/Cymatics Jawz - Kick 9.wav"
+    ],
+    "util": [
+        "/sample/util/armor.wav",
+        "/sample/util/click.wav"
     ],
     "_base": "http://localhost:5432"
 }
