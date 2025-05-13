@@ -1,0 +1,28 @@
+{
+    "sample": [
+        "/.gitignore"
+    ],
+    "Kicks": [
+        "/Kicks/Cymatics Jawz - Kick 1.wav",
+        "/Kicks/Cymatics Jawz - Kick 10.wav",
+        "/Kicks/Cymatics Jawz - Kick 11.wav",
+        "/Kicks/Cymatics Jawz - Kick 12.wav",
+        "/Kicks/Cymatics Jawz - Kick 13.wav",
+        "/Kicks/Cymatics Jawz - Kick 14.wav",
+        "/Kicks/Cymatics Jawz - Kick 15.wav",
+        "/Kicks/Cymatics Jawz - Kick 16.wav",
+        "/Kicks/Cymatics Jawz - Kick 17.wav",
+        "/Kicks/Cymatics Jawz - Kick 18.wav",
+        "/Kicks/Cymatics Jawz - Kick 19.wav",
+        "/Kicks/Cymatics Jawz - Kick 2.wav",
+        "/Kicks/Cymatics Jawz - Kick 20.wav",
+        "/Kicks/Cymatics Jawz - Kick 3.wav",
+        "/Kicks/Cymatics Jawz - Kick 4.wav",
+        "/Kicks/Cymatics Jawz - Kick 5.wav",
+        "/Kicks/Cymatics Jawz - Kick 6.wav",
+        "/Kicks/Cymatics Jawz - Kick 7.wav",
+        "/Kicks/Cymatics Jawz - Kick 8.wav",
+        "/Kicks/Cymatics Jawz - Kick 9.wav"
+    ],
+    "_base": "http://localhost:5432"
+}
